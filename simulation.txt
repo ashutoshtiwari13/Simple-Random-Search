@@ -1,0 +1,9 @@
+Then in the terminal or the Anaconda Prompt, enter the following commands one by one:
+
+- pip install -r requirements.txt
+- conda install -c conda-forge ffmpeg
+
+
+For the Half-Cheetah Environment
+ - name of this environment is “HalfCheetahBulletEnv-v0” (Any custom name)
+ - importing pybullet_envs 
