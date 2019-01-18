@@ -1,4 +1,4 @@
-Then in the terminal or the Anaconda Prompt, enter the following commands one by one:
+In the terminal or the Anaconda Prompt, enter the following commands one by one:
 
 - pip install -r requirements.txt
 - conda install -c conda-forge ffmpeg
