@@ -1,3 +1,10 @@
+
+![Build status](https://ci.appveyor.com/api/projects/status/ugq1vwa8045p307g?svg=true)
+![Build Status](https://travis-ci.org/prateekiiest/Code-Sleep-Python.svg?branch=master)
+<img src="https://opencollective.com/code-sleep-python/tiers/sponsor/badge.svg?label=sponsor&color=brightgreen" />
+<img src="https://opencollective.com/code-sleep-python/tiers/backer/badge.svg?label=backer&color=brightgreen" />
+![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![made with &hearts in Python](https://img.shields.io/badge/made%20with%20%E2%9D%A4%20in-Python-red.svg)](http://shields.io/#your-badge)
 # Augmented Random Search Using Numpy 
 
 This project aims to build a new type of Artificial intelligence algorithm which is simple and surpasses many already available algorithms for Humanoid or Mu-Jo-Co
@@ -24,15 +31,15 @@ to walk and run .
  * Method of finite Diffrences to find the best possible direction of movement
  
  ### Algorithm 
- * Scaling the update step by standard devaition of Rewards
+ * Scaling the update step by standard deviation of Rewards
  * Online normalization of weights
  * Choosing better directions for faster learning 
  * Discarding directions that yield lowest rewards
  
- ## Algorithm Overview
+ ### Algorithm Overview
+ ![Alt text](https://github.com/ashutoshtiwari13/Simple-Random-Search/blob/master/photos/SS11.png)
  
 
- 
  ## Installation 
  - Fork and clone the repository using ``` git clone https://github.com/ashutoshtiwari13/Simple-Random-Search.git ```
  - Run ```pip install -r requirements.txt ``` 
@@ -42,14 +49,24 @@ to walk and run .
  - Run the command ``` python ars.py ```
  
  # Results
- 
- 
- 
+  ### Reference Mu-ju-Co
+  ![Alt text](https://github.com/ashutoshtiwari13/Simple-Random-Search/blob/master/photos/SS6.png)
   
+  ### Series of Rewards
+  Rewards start from being negative as low as -900 and climbs to positive 900 in around 1000 steps.
+  ![Alt Text](https://github.com/ashutoshtiwari13/Simple-Random-Search/blob/master/photos/SS5.png)
+  ![Alt Text](https://github.com/ashutoshtiwari13/Simple-Random-Search/blob/master/photos/SS4.png)
+  ![Alt Text](https://github.com/ashutoshtiwari13/Simple-Random-Search/blob/master/photos/SS3.png)
+ 
+ 
+ 
+ # Simulation Images
+ ![Alt text](https://github.com/ashutoshtiwari13/Simple-Random-Search/blob/master/photos/SS12.jpg)
+ 
  # Further reading 
  - Ben Recht's [Blog](http://www.argmin.net/2018/03/20/mujocoloco/)
  - Reference paper - [Link](https://arxiv.org/pdf/1703.03864.pdf)
  - Research paper used - [Link](https://arxiv.org/pdf/1803.07055.pdf)
  
- Happy coding :)
+ Happy coding :blush: :heart:
  
