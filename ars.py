@@ -72,6 +72,24 @@ class Policy():
        # setting -1 for very high negative rewards
 
 
+# Exploring the policy on one specific direction and over one episode
+
+def explore(env, normalizer, policy, direction = None, delta = None):
+    state = env.reset()
+    done = False
+    num_plays = 0.
+    sum_rewards = 0
+    while not done and num_plays < hp.episode_length:
+        normalizer.observe(state)
+        state = normalizer.normalize(state)
+        action = policy.evaluate(state, delta, direction)
+        state, reward, done, _ = env.step(action)
+        reward = max(min(reward, 1), -1)
+        sum_rewards += reward
+        num_plays += 1
+    return sum_rewards       
+
+
 # Training the model
 
 def train(env, policy, normalizer, hp):
