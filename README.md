@@ -8,7 +8,7 @@
 # Augmented Random Search Using Numpy 
 
 This project aims to build a new type of Artificial intelligence algorithm which is simple and surpasses many already available algorithms for Humanoid or Mu-Jo-Co(Multidimensionla-Joint-with-contact)
-locomotion related tasks. It simulates a powerful AI Algorithm, namely Augmented Random Search (ARS) by training a Half-cheetah (Mu-Jo-Co) to walk and run across a field
+locomotion related tasks. It simulates a powerful AI Algorithm, namely Augmented Random Search (ARS) by training a Half-cheetah (Mu-Jo-Co) to walk and run across a field.
 to walk and run .
 
 ## Motivation 
@@ -31,10 +31,10 @@ to walk and run .
  * Method of finite Diffrences to find the best possible direction of movement
  
  ### Algorithm 
- * Scaling the update step by standard deviation of Rewards
- * Online normalization of weights
- * Choosing better directions for faster learning 
- * Discarding directions that yield lowest rewards
+ * Scaling the update step by standard deviation of Rewards.
+ * Online normalization of weights.
+ * Choosing better directions for faster learning.
+ * Discarding directions that yield lowest rewards.
  
  ### Algorithm Overview
  ![Alt text](https://github.com/ashutoshtiwari13/Simple-Random-Search/blob/master/photos/SS11.png)
