@@ -15,7 +15,7 @@ to walk and run .
 [Link](https://www.youtube.com/watch?v=hx_bgoTF7bs) to the Google DeepMind's Video
 
 ## Existing methods
-* Asynchronous Actor-Critic Agents (A3C)
+* Asynchronous Actor-Critic Agents
 * Deep learning 
 * Deep Reinforcement Learning
 
