@@ -12,7 +12,7 @@ locomotion related tasks. It simulates a powerful AI Algorithm, namely Augmented
 to walk and run .
 
 ## Motivation 
-[Link](https://www.youtube.com/watch?v=hx_bgoTF7bs) to the Google DeepMind's Video
+[Link](https://www.youtube.com/watch?v=hx_bgoTF7bs) to the Google-DeepMind's Video
 
 ## Existing methods
 * Asynchronous Actor-Critic Agents
