@@ -17,7 +17,7 @@ to walk and run .
 ## Existing methods
 * Asynchronous Actor-Critic Agents
 * Deep learning 
-* Deep RL
+* Deep Reinforcement Learning
 
 ## How is it different ?
   * Unlike other AI systems where the exploration occurs after each action (Action Space) , here exploration occurs after end of each [episode](https://www.quora.com/What-does-the-term-%E2%80%9Cepisode%E2%80%9D-mean-in-the-context-of-reinforcement-learning-RL) (Policy space)
