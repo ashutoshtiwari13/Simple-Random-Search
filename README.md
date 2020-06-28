@@ -28,7 +28,7 @@ to walk and run .
  ### Components
  * Perceptrons
  * Reward Mechanism and updation of weights
- * Method of finite Diffrences to find the best possible direction of movement
+ * Method of finite Differences to find the best possible direction of movement
  
  ### Algorithm 
  * Scaling the update step by standard deviation of Rewards.
