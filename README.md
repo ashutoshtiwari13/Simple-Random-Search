@@ -16,7 +16,7 @@ to walk and run .
 
 ## Existing methods
 * Asynchronous Actor-Critic Agents
-* Deep learning 
+* Deep Learning 
 * Deep Reinforcement Learning
 
 ## How is it different ?
