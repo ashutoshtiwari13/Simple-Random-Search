@@ -5,7 +5,9 @@
 <img src="https://opencollective.com/code-sleep-python/tiers/backer/badge.svg?label=backer&color=brightgreen" />
 ![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [![made with &hearts in Python](https://img.shields.io/badge/made%20with%20%E2%9D%A4%20in-Python-red.svg)](http://shields.io/#your-badge)
-# Augmented Random Search Using Numpy 
+# Augmented Random Search
+
+ 
 
 This project aims to build a new type of Artificial intelligence algorithm which is simple and surpasses many already available algorithms for Humanoid or Mu-Jo-Co(Multidimensionla-Joint-with-contact)
 locomotion related tasks. It simulates a powerful AI Algorithm, namely Augmented Random Search (ARS) by training a Half-cheetah (Mu-Jo-Co) to walk and run across a field.
