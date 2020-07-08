@@ -1,8 +1,6 @@
 
 ![Build status](https://ci.appveyor.com/api/projects/status/ugq1vwa8045p307g?svg=true)
 ![Build Status](https://travis-ci.org/prateekiiest/Code-Sleep-Python.svg?branch=master)
-<img src="https://opencollective.com/code-sleep-python/tiers/sponsor/badge.svg?label=sponsor&color=brightgreen" />
-<img src="https://opencollective.com/code-sleep-python/tiers/backer/badge.svg?label=backer&color=brightgreen" />
 ![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [![made with &hearts in Python](https://img.shields.io/badge/made%20with%20%E2%9D%A4%20in-Python-red.svg)](http://shields.io/#your-badge)
 ## Augmented Random Search using Numpy
