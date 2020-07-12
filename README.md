@@ -19,7 +19,7 @@ to walk and run .
 * Deep Learning 
 * Deep Reinforcement Learning
 
-## How is it different ?
+## How is it different ??
   * Unlike other AI systems where the exploration occurs after each action (Action Space) , here exploration occurs after end of each [episode](https://www.quora.com/What-does-the-term-%E2%80%9Cepisode%E2%80%9D-mean-in-the-context-of-reinforcement-learning-RL) (Policy space)
   * ARS is a shallow learning technique unlike deep learning in other AI's systems (Uses only one perceptron rather than layers of it)
   * ARS discards the technique of Gradient Descent for weight adjustment and uses the [Method of Finite Differences](https://en.wikipedia.org/wiki/Finite_difference_method)
